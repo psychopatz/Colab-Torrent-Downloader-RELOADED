@@ -1,4 +1,6 @@
-# Colab-Torrent-Downloader-RELOADED
+# Colab-Torrent-Downloader-RELOADED  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11lloVHqOjJQDAGgERAJsy0_rpmZNvJvJ#scrollTo=04aXCR9ODJkn])
+
 A feature-rich Torrent Download manager powered by Google Collab.
 
 
@@ -17,5 +19,3 @@ Features:
 *More to come...
 
 
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11lloVHqOjJQDAGgERAJsy0_rpmZNvJvJ#scrollTo=04aXCR9ODJkn])
