@@ -1,7 +1,13 @@
 # Colab-Torrent-Downloader-RELOADED
 A feature-rich Torrent Download manager powered by Google Collab.
 
+
+
+
+
 Features: 
+
+
 *Built-in Torrent Search engine for fast secure search. 
 
 *History and resume downloads support.
