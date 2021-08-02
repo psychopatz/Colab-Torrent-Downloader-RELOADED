@@ -15,7 +15,7 @@ Features:
 
 *VPN-like features both downloading and searching that prevents DMCA Notice since it technically uses Google's internet instead of yours.
 
-*More to come...
+*More features to come... If I dont get lazy
 
 Visit https://bit.ly/3xlijDv for more info.
 
